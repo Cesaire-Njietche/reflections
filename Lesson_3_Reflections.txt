@@ -3,3 +3,6 @@ For collaboration purpose, for saving purpose.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Internet issue
+
+Describe the differences between forks, clones, and branches. when would you use one instead of another?
+Fork is used to make a copy of a repository on Github server. Clone makes a copy from Github server to our local machine. Branches are different directions given while versioning the content of a document.
