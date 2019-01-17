@@ -9,3 +9,8 @@ Fork is used to make a copy of a repository on Github server. Clone makes a copy
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To sync and know what diffences are between the remote version and the local version of the files.
+
+How would you collaborate without using Git and Github?What would be easier, and what would be harder?
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Branches collaboratively are useful when many people are working on several different features with several different approaches. Working directly in master can take place when applying the divide-and-conquer approach 
